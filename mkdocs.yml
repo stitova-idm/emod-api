@@ -45,7 +45,6 @@ plugins:
         - .github/**/*
         - build/**/*
         - docs/**/*
-        - emod_api/.dtk_tools/**/*
         - emod_api/**/__main__.py
         - tests/**/*
       autoapi_add_nav_entry: false
